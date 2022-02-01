@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, How do I help you!!!  👋
 
-<!--
-**dmpadulkar/dmpadulkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+This is Digambar Padulkar(Mostly people calls me DM). I am working with Quantum Computing and Cryptography Research Scholar at College of Engineering Pune(CoEP).
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on COVID-19 Data Analysis
-- 🌱 I’m currently learning Convolutional Neural Network
+- 🔭 Quantum Computing
+- 🌱 Quantum Cryptography
 - 👯 I’m looking to collaborate on Machine Learning and Data Science
 - 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about Data Science
-- 📫 How to reach me: dm.padulkar2006@gmail.com
-- 😄 Pronouns: ...
+- 💬 Ask me about Quantum Computing/Cryptography
+- 📫 How to reach me: digambar.padulkar@gmail.com 
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
--->
+

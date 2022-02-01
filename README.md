@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 Quantum Computing
 - 🌱 Quantum Cryptography
-- 👯 I’m looking to collaborate on Machine Learning and Data Science
+- 👯 I’m looking to collaborate on Quantum Computing and Cryptography
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about Quantum Computing/Cryptography
 - 📫 How to reach me: digambar.padulkar@gmail.com 
